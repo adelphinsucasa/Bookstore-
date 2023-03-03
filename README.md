@@ -7,7 +7,7 @@
   <h3><b>react-bookstore</b></h3>
 </div>
 
-# 📗 Table of Contents <a name="#readme-top></a>
+# 📗 Table of Contents <a name="readme-top></a>
 
 - [📖 About the Project](#about-project)
   - [Walkthrough Video](#walkthrough-video)
