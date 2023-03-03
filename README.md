@@ -7,7 +7,7 @@
   <h3><b>react-bookstore</b></h3>
 </div>
 
-# 📗 Table of Contents
+# 📗 Table of Contents <a name="#readme-top></a>
 
 - [📖 About the Project](#about-project)
   - [Walkthrough Video](#walkthrough-video)
@@ -34,9 +34,12 @@
 
 > react-bookstore is a website built with react to display a list of boooks. It allows to add one book to the list.
 
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Walkthrough Video <a  name="walkthrough-video"></a>
 Comming Soon
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -47,6 +50,8 @@ Comming Soon
 - Github
 - React
 - Routes
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ### Tech Stack <a name="tech-stack"></a>
 
@@ -60,6 +65,8 @@ Comming Soon
   </ul>
 </details>
 
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 <!-- Features -->
 
 #### Key Features <a name="key-features"></a>
@@ -70,11 +77,14 @@ Comming Soon
   <li>React</li>
 
  </ul>
+ 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 🧑🏻‍💻 Live Demo <a name="live-demo"></a>
 
 Comming Soon
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
