@@ -1,0 +1,53 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+#root {
+  background-color: #f5f6fa;
+  padding: 20px;
+}
+
+#topbar {
+  display: flex;
+  align-items: center;
+  gap: 30px;
+  margin: 0 20px;
+  padding: 20px;
+  background-color: #fff;
+}
+
+#topbar h1 {
+  color: #0290ff;
+}
+
+#topbar button {
+  background-color: rgb(199, 199, 202);
+  padding: 10px;
+}
+
+#topbar ul {
+  display: flex;
+  list-style: none;
+  gap: 30px;
+}
+
+#topbar ul a {
+  text-decoration: none;
+  color: #000;
+}
+
+#detail {
+  margin: 0 20px;
+  padding: 20px;
+  background-color: #f2f3f4;
+}
+
+#categories,
+#books {
+  margin: 20px;
+  padding: 20px;
+  background-color: #fff;
+  border: 1px solid rgb(227, 219, 219);
+}
